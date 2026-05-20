@@ -8,10 +8,10 @@ A growing collection of small games built with [Godot Engine 4.6](https://godote
 
 ## Games
 
-| # | Game | Description | Repo |
-|---|------|-------------|------|
-| 01 | Snake | Classic snake game on a 20×20 grid | [snake-game](https://github.com/yuzoVi/snake-game) |
-| 02 | Flappy Bird | Flappy Bird clone with pipe obstacles | [flappy-bird-clone](https://github.com/yuzoVi/flappy-bird-clone) |
+| # | Game | Description | Repo | Play |
+|---|------|-------------|------|------|
+| 01 | Snake | Classic snake game on a 20×20 grid | [snake-game](https://github.com/yuzoVi/snake-game) | [itch.io](https://yuzovi.itch.io/snake) |
+| 02 | Flappy Bird | Flappy Bird clone with pipe obstacles | [flappy-bird-clone](https://github.com/yuzoVi/flappy-bird-clone) | [itch.io](https://yuzovi.itch.io/flappybirdclone) |
 
 ---
 
